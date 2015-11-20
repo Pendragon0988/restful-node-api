@@ -1,0 +1,23 @@
+{
+  "name": "restful-node-api",
+  "version": "0.0.1",
+  "description": "RESTful API of NodeJS and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REST",
+    "MEAN",
+    "NodeJS",
+    "MongoDB"
+  ],
+  "author": "Brian Matthew Mamaril",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mongoose": "^4.2.6",
+    "node-restful": "^0.2.2"
+  }
+}
